@@ -2,7 +2,7 @@
   "name": "google-maps-infobox",
   "version": "1.1.13",
   "description": "Google maps component that displays a popover containing some text.",
-  "main": "infobox.js",
+  "main": "infobox.es6",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
