@@ -815,3 +815,5 @@ InfoBox.prototype.close = function () {
 
     this.setMap(null);
 };
+
+export default InfoBox;
